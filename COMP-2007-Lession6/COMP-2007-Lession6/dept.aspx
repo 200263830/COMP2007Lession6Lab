@@ -9,7 +9,7 @@
         <Columns>
             <asp:BoundField DataField="DepartmentID" HeaderText="Department ID" />
             <asp:BoundField DataField="Name" HeaderText="Department Name" />
-            <asp:BoundField DataField="Budget" HeaderText="Department Budget" />
+            <asp:BoundField DataField="Budget" HeaderText="Department Budget"  DataFormatString="{0:C}"/>
             <asp:HyperLinkField HeaderText="Edit" Text="Edit" NavigateUrl="~/dept.aspx"
                 DataNavigateUrlFields="DepartmentID" DataNavigateUrlFormatString="addDept.aspx?DepartmentID={0}"/>
             <asp:CommandField HeaderText="Delete" DeleteText="Delete" ShowDeleteButton="true" />
