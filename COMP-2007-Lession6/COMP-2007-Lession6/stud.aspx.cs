@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using COMP_2007_Lession6.Models;
 using System.Web.ModelBinding;
+using System.Linq.Dynamic;
 
 namespace COMP_2007_Lession6
 {
@@ -34,6 +35,15 @@ namespace COMP_2007_Lession6
                 txtfirstname.Text = s.FirstMidName;
                 txtenrlldate.Text = s.EnrollmentDate.ToShortDateString();
                 }
+                //enrollments - this code goes in the same method that populates the student form but below the existing code that's already in GetStudent()               
+                var objE = (from en in db.Enrollments
+                            join c in db.Courses on en.CourseID equals c.CourseID
+                            join d in db.Departments on c.DepartmentID equals d.DepartmentID
+                            where en.StudentID == StudentID
+                            select new { en.EnrollmentID, en.Grade, c.Title, d.Name});
+
+                grcourses = objE.ToList();
+                grcourses.DataBind();
             }
         }
 

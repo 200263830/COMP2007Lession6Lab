@@ -8,3 +8,14 @@ C:\Users\Bhaumik\Documents\Visual Studio 2013\EnterpriceComputing\COMP-2007-Less
 C:\Users\Bhaumik\Documents\Visual Studio 2013\EnterpriceComputing\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP2007-Lession-5.dll
 C:\Users\Bhaumik\Documents\Visual Studio 2013\EnterpriceComputing\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP2007-Lession-5.pdb
 C:\Users\Bhaumik\Documents\Visual Studio 2013\EnterpriceComputing\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP-2007-Lession6.csprojResolveAssemblyReference.cache
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\COMP2007-Lession-5.dll.config
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\COMP2007-Lession-5.dll
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\COMP2007-Lession-5.pdb
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\EntityFramework.dll
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\EntityFramework.SqlServer.dll
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\EntityFramework.xml
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\EntityFramework.SqlServer.xml
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP-2007-Lession6.csprojResolveAssemblyReference.cache
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP2007-Lession-5.dll
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\obj\Debug\COMP2007-Lession-5.pdb
+C:\Users\Bhaumik\Documents\GitHub\COMP2007Lession6Lab\COMP-2007-Lession6\COMP-2007-Lession6\bin\System.Linq.Dynamic.dll

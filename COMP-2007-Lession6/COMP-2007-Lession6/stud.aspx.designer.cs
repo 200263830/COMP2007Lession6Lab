@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP_2007_Lession6
-{
-
-
-    public partial class stud
-    {
-
+namespace COMP_2007_Lession6 {
+    
+    
+    public partial class stud {
+        
         /// <summary>
         /// txtLastname control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace COMP_2007_Lession6
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtLastname;
-
+        
         /// <summary>
         /// txtfirstname control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace COMP_2007_Lession6
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtfirstname;
-
+        
         /// <summary>
         /// txtenrlldate control.
         /// </summary>
@@ -40,7 +38,7 @@ namespace COMP_2007_Lession6
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtenrlldate;
-
+        
         /// <summary>
         /// RangeValidator1 control.
         /// </summary>
@@ -49,7 +47,7 @@ namespace COMP_2007_Lession6
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RangeValidator RangeValidator1;
-
+        
         /// <summary>
         /// btnsave control.
         /// </summary>
@@ -58,5 +56,14 @@ namespace COMP_2007_Lession6
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnsave;
+        
+        /// <summary>
+        /// grcourses control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView grcourses;
     }
 }
