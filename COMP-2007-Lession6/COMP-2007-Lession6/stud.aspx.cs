@@ -42,7 +42,7 @@ namespace COMP_2007_Lession6
                             where en.StudentID == StudentID
                             select new { en.EnrollmentID, en.Grade, c.Title, d.Name});
 
-                grcourses = objE.ToList();
+                grcourses.DataSource = objE.ToList();
                 grcourses.DataBind();
             }
         }
@@ -76,6 +76,11 @@ namespace COMP_2007_Lession6
                 Response.Redirect("students.aspx");
             }
         
+        }
+
+        protected void grcourses_RowDeleted(object sender, GridViewDeletedEventArgs e)
+        {
+
         }
     }
 }
